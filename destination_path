@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, user-scalable=yes" name="viewport">
+    <meta name="description" content="">
+    <meta name="author" content="Carlo Prato">
+    <meta property='og:image' content="https://www.cprato.com/assets/images/album-covers/267.jpg">
+    <title>3LAU feat. Bright Lights - How You Love Me  MIDI | Carlo's MIDI</title>
+    <meta name="theme-color" content="#287080" />
+    <meta name="csrf-token" content="4AqXJ39DLOV5JLTMwDbFA57B8U3kypDS4IX6Le9O">
+
+    <link rel="canonical" href="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me" />
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.19.1/css/mdb.min.css" rel="stylesheet">
+
+    <link href="/assets/css/stylesheet.css?v=2.0" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">        
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.19.1/css/mdb.min.css" rel="stylesheet">
+    <link href="/assets/css/stylesheet.css?v=2.0" rel="stylesheet">
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-60272920-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CREQ3BFF8H"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-CREQ3BFF8H');
+    </script>
+
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-6298268654329842",
+                enable_page_level_ads: false
+            });
+        </script>
+    </head>
+<body class='base-color'>      
+    <header>
+    <!--  nav.php-->
+    <nav class="navbar navbar-expand-lg accent-color">
+        <!-- Navbar brand -->
+        <div class='container'>
+        <img src="/assets/images/logo.png" class="img" alt="Carlo's MIDI logo'" style="float:left;height:50px;padding-right:10px;vertical-align:middle">
+        <a class="navbar-brand" href="/">Carlo's MIDI</a>    <!-- Collapse button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fas fa-bars title_link"></span>
+        </button>  
+        <!-- Collapsible content -->
+        <div class="collapse navbar-collapse" id="basicExampleNav">    
+            <!-- Links -->
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/">Home</a></li>
+                <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/blog">Blog</a></li>
+                <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/en/midi/all">MIDI List</a></li>
+                <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/request">Request</a></li>
+                <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/en/contact">Contact</a></li>
+                <li class="nav-item rounded shadow btn-secondary">
+                                                            <a class="nav-link waves-effect waves-light" href="/login"><i class='fas fa-sign-in-alt mr-2'></i>Login</a></li>                        
+                                        <li class="nav-item"><a class="nav-link waves-effect waves-light" href="/switchTheme/light"><i class='fas fa-sun theme-icon'></i></a></li>
+
+            <li class="nav-item dropdown d-none">
+                <a class="nav-link dropdown-toggle" href="#" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src='/assets/images/flags/en.png'></a>
+                <div class="dropdown-menu" aria-labelledby="dropdown09">
+                    <a class="dropdown-item" href="/de"><img src='/assets/images/flags/de.png'></a>
+                    <a class="dropdown-item" href="/es"><img src='/assets/images/flags/es.png'></a>
+                    <a class="dropdown-item" href="/fr"><img src='/assets/images/flags/fr.png'></a>
+                    <a class="dropdown-item" href="/it"><img src='/assets/images/flags/it.png'></a>
+                    <a class="dropdown-item" href="/pt"><img src='/assets/images/flags/pt.png'></a>
+                </div>
+            </li>        
+
+            </ul>
+                        <div class="form-inline my-2 ml-auto">
+                <form id='search_form' method="post" action="/en/midi/search">
+                    <input type="hidden" name="_token" value="4AqXJ39DLOV5JLTMwDbFA57B8U3kypDS4IX6Le9O">                    <input id='search' class="form-control w-auto" name="search_string" type="search" placeholder="Search MIDI..." aria-label="Search">
+                    <button class="btn btn-outline-white btn-md my-2 my-sm-0 mr-auto" type="submit">Search <i class="fas fa-search"></i></button>
+                </form>
+            </div>
+                        
+        <!-- Collapsible content -->
+        </div>
+    </div>
+    </nav>
+    </header>
+    <main>
+        <div id='content'>
+            <div class='container'>
+                <div class='row mt-4'>
+                    
+<div class='col-md-12'>
+<h1>3LAU feat. Bright Lights - How You Love Me   MIDI
+</h1>
+
+</div>
+</div>
+    <div class='row'>
+        <div class='col-md-12 mt-2'>
+            <!-- MIDI Details Bottom -->
+            <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-6298268654329842"
+            data-ad-slot="9938059128"
+            data-ad-format="auto"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>    
+    </div>
+<div class='row'>
+<div class='col-md-4 rounded mt-4'>
+<table class='table table-sm'>
+  <tr>
+      <th style='width:100px;'>
+          Artist
+      </th>
+      <td style='width:100px;'>
+          <a href='/en/midi/artist/202/3lau-feat-bright-lights'>3LAU feat. Bright Lights</a>
+      </td>
+  </tr>
+  <tr>
+     <th>
+        Title
+     </th>
+     <td>
+          How You Love Me 
+     </td>
+  </tr>
+  <tr>
+      <td class='text-center' colspan='2'>
+          
+                <a href='/en/midi/download/267/3lau-feat-bright-lights-how-you-love-me/My40ODAzODU0MjYyNDZFKzE2' class='btn btn-success px-3 py-3' style='display:block;'><i class='fas fa-download pr-1'></i>
+        Free Download
+        </a>
+              </td>
+  </tr>
+  <tr>
+      <td class='text-center' colspan='2'>                 
+      <a class='btn btn-blue px-3 py-3' style='display:block;' href="#" id='playMIDI' onClick="MIDIjs.play(&quot;/en/midi/file/267/3lau-feat-bright-lights-how-you-love-me/My40ODAzODU0MjYyNDZFKzE2&quot;);
+                              document.getElementById('playMIDI').style.display='none';
+                              document.getElementById('stopMIDI').style.display='block';return false;"><i class='fas fa-play pr-1'></i>Play MIDI</a>
+          <a class='btn btn-danger  px-3 py-3'  style='display:none;' href="#" id='stopMIDI' onClick="MIDIjs.stop();document.getElementById('stopMIDI').style.display='none';
+        document.getElementById('playMIDI').style.display='block';return false;"><i class='fas fa-stop pr-1'></i>Stop MIDI</a>
+      </td>
+  </tr>
+  <tr>
+      <td colspan="2">
+        <a class='btn btn-secondary px-3 py-3' style='display:block;' href='/en/midi/convert/267/3lau-feat-bright-lights-how-you-love-me/My40ODAzODU0MjYyNDZFKzE2'><i class='fas fa-file-export pr-1'></i>Convert MIDI file to MP3</a>
+
+        </td>
+  </tr>
+  <tr>
+      <td colspan='2' class='text-center'>
+          <img src='/assets/images/album-covers/267.jpg' class='img-fluid align-middle'>
+      </td>
+  </tr>
+  <tr>
+      <td colspan='2'>
+        Added on 30th November 2016
+      </td>
+  </tr>
+  </table>
+
+</div>
+<div class='col-md-8 mt-4'>
+<table class='table table-sm'>
+  <tr>
+     <th>
+        Release Date
+     </th>
+     <td>
+          2014-03-18 00:00:00 
+     </td>
+  </tr>
+  <tr>
+      <th style='width:100px;'>
+        Key
+      </th>
+      <td style='width:100px;'>
+           A# min 
+      </td>
+  </tr>
+  <tr>
+     <th>
+         BPM
+     </th>
+     <td>
+     <a href='/en/midi/bpm/128'>128</a>
+     </td>
+  </tr>
+  <tr>
+      <th style='width:100px;'>
+        Genre
+    </th>
+      <td style='width:100px;'>
+          <a href='/en/midi/genre/big-room'>Big Room</a>
+      </td>
+  </tr>
+  <tr>
+     <th>
+        Label
+     </th>
+     <td>
+          <a href='/en/midi/label/island-records'>Island Records</a>
+     </td>
+  </tr>
+  <tr>
+     <th>
+         Instruments
+     </th>
+     <td>
+        
+    </td>
+  </tr>               
+  <tr>
+     <th>
+         Length
+     </th>
+     <td>
+        
+     </td>
+  </tr>                               
+  </table>
+        <!-- Midi Details -->
+      <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-6298268654329842"
+          data-ad-slot="5161925923"
+          data-ad-format="auto"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+</div>
+    <div class='row'>
+    <div class='col-md-12 mt-4'>
+    <!-- MIDI Details Bottom New -->
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-6298268654329842"
+        data-ad-slot="4119061120"
+        data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    </div>
+<div class='row'>
+<div class='col-md-6 mt-4'>
+
+  <h2>Similar MIDI</h2>
+  <table class='table table-sm'>
+        <th class='accent-color font-weight-bold title_link'>
+          Title
+      </th>
+        <th class='accent-color font-weight-bold title_link'>
+        Artist
+      </th>
+      
+          <tr>
+          <td><a href='/en/midi/details/210/martin-garrix-ft-the-federal-empire-hold-on-believe' style='font-weight:700;'>Hold On &amp; Believe (Original Mix)</td>
+              <td><a class='link' href='/en/midi/artist/153/martin-garrix-ft-the-federal-empire'>Martin Garrix ft. The Federal Empire</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me' style='font-weight:700;'>How You Love Me </td>
+              <td><a class='link' href='/en/midi/artist/202/3lau-feat-bright-lights'>3LAU feat. Bright Lights</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/139/avicii-dear-boy' style='font-weight:700;'>Dear Boy (Original Mix)</td>
+              <td><a class='link' href='/en/midi/artist/91/avicii'>Avicii</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/254/alesso-ft-matthew-koma-years' style='font-weight:700;'>Years (Original Mix)</td>
+              <td><a class='link' href='/en/midi/artist/192/alesso-ft-matthew-koma'>Alesso ft. Matthew Koma</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/235/dimitri-vangelis-wyman-steve-angello-payback' style='font-weight:700;'>Payback (Original Mix)</td>
+              <td><a class='link' href='/en/midi/artist/175/dimitri-vangelis-wyman-steve-angello'>Dimitri Vangelis, Wyman &amp; Steve Angello</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/30/sebastian-ingrosso-alesso-feat-ryan-tedder-calling-lose-my-mind' style='font-weight:700;'>Calling (Lose My Mind) </td>
+              <td><a class='link' href='/en/midi/artist/24/sebastian-ingrosso-alesso-feat-ryan-tedder'>Sebastian Ingrosso &amp; Alesso feat. Ryan Tedder</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/91/moby-go' style='font-weight:700;'>Go (Hardwell Remix)</td>
+              <td><a class='link' href='/en/midi/artist/52/moby'>Moby</td>
+          </tr>
+  
+          <tr>
+          <td><a href='/en/midi/details/37/axwell-shapov-belong' style='font-weight:700;'>Belong (Axwell and Years Remodel)</td>
+              <td><a class='link' href='/en/midi/artist/1/axwell-shapov'>Axwell &amp; Shapov</td>
+          </tr>
+  </table>
+
+</div>
+</div>
+</div>
+</div>
+<div class='container'>
+    <div class='row'>
+        <div class='col-md-12'>
+            <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+                                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" itemid="https://www.cprato.com" class="breadcrumb-item">
+                        <a itemscope itemtype="https://schema.org/WebPage"
+           itemprop="item" itemid="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me"
+           href="https://www.cprato.com"><span itemprop="name">Home</span></a>
+                    <meta itemprop="position" content="1" />
+                    </li>
+                                                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" itemid="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me" class="breadcrumb-item active">
+                    <a itemscope itemtype="https://schema.org/WebPage"
+           itemprop="item" itemid="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me"
+           href="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me"><span itemprop="name">MIDI</span></a>
+                    <meta itemprop="position" content="2" />
+                    </li>
+                                                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" itemid="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me" class="breadcrumb-item active">
+                    <a itemscope itemtype="https://schema.org/WebPage"
+           itemprop="item" itemid="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me"
+           href="https://www.cprato.com/en/midi/details/267/3lau-feat-bright-lights-how-you-love-me"><span itemprop="name">3LAU feat. Bright Lights - How You Love Me</span></a>
+                    <meta itemprop="position" content="3" />
+                    </li>
+                                        </ol> 
+        </div>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="page-footer footer text-center text-md-left font-small accent-color pt-4 mt-4">
+        <!--Footer Links-->
+        <div class="container text-center text-md-left">
+        <div class='row h-100 align-middle'>
+            <div class="col-md-8 text-center">
+                <a class='btn btn-sm w-auto' style='background-color:#4267B2;' href='https://facebook.com/cpratoDJ' target='_blank'>
+                    <i class='fab fa-2x fa-facebook-square mr-1'></i>
+                    <div>Facebook</div> 
+                </a>
+                <a class='btn btn-sm w-auto' style='background-color:#7289DA;' href='https://discord.gg/WErxjbJ' target='_blank'>
+                    <i class='fab fa-2x fa-discord mr-1'></i>
+                    <div>Discord</div> 
+                </a>
+                <a class='btn btn-sm w-auto' style='background-color:#f96854;' href='https://patreon.com/carloprato' target='_blank'>
+                    <i class='fab fa-2x fa-patreon mr-1'></i>
+                    <div>Patreon</div> 
+                </a>
+                <a class='btn btn-sm w-auto' style='background-color:#f50;' href='https://soundcloud.com/carloprato' target='_blank'>
+                    <i class='fab fa-2x fa-soundcloud mr-1'></i>
+                    <div>SoundCloud</div> 
+                </a>
+                <a class='btn btn-sm w-auto' style='background-color:#f00;' href='https://www.youtube.com/user/BlackEagleProject' target='_blank'>
+                    <i class='fab fa-2x fa-youtube mr-1'></i>
+                    <div>YouTube</div> 
+                </a>
+            </div>
+        <!--First column-->
+            <div class="col-md-2">
+                <h5 class="text-uppercase">Menu</h5>
+                <ul class="list-unstyled">
+                    <li style="margin-bottom:2px;">
+                        <a href="/">Home</a>
+                    </li>
+                        <li style="margin-bottom:2px;">
+                            <a href="/blog">Blog</a>
+                        </li>
+                    <li style="margin-bottom:2px;">
+                        <a href="/en/contact">Contact</a>
+                    </li>
+                    <li style="margin-bottom:2px;">
+                        <a href="/en/privacy">Privacy</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-2">
+                <h5 class="text-uppercase">Contact</h5>
+                <ul class="list-unstyled">
+                    <li>
+                        <a href="mailto:carlo@cprato.com">carlo@cprato.com</a>
+                    </li>
+                </ul>
+            </div>     
+        </div>
+    </div>
+    <div class="footer-copyright accent-color py-3 text-center">
+        <a href="/en/privacy">Privacy</a> -  
+        © 2021 Copyright:
+        <a href="mailto:carlo@cprato.com">Carlo Prato</a>
+    </div>
+    </footer>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+    window.cookieconsent.initialise({
+    "palette": {
+        "popup": {
+        "background": "#3b4252",
+        "text": "#eceff4"
+        },
+        "button": {
+        "background": "#287080",
+        "text": "#eceff4"
+        }
+    },
+    "content": {
+        "href": "https://www.cprato.com/en/privacy"
+    }
+    });
+    </script>
+    <script type='text/javascript'>
+        function ValidateEmail(inputText)
+        {var mailformat=/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/;if(inputText.value.match(mailformat))
+        {document.email_subscription.EMAIL.focus();
+        console.log('success');
+        return true;}
+        else
+        {  document.getElementById("subscription_error").innerHTML = "<div class='mt-2 alert alert-danger p-2'><span class='fas fa-exclamation-circle mr-2'></span>Enter a valid address to subscribe.</div>";
+        document.email_subscription.EMAIL.focus();
+        console.log('failed');
+        return false;}}
+    </script>
+
+        <script src='/assets/js/midi.js' async></script> 
+        <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+       $('#form').submit(function(e){
+        $('#form button').prop( "disabled", true );
+        $("#msg").removeClass('alert-danger alert-success');
+        $("#msg").addClass('alert alert-info');
+        $("#msg").html('Converting file, please wait...');
+        var formData = new FormData(this);
+        e.preventDefault();
+          $.ajax({
+              headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+              },
+              type:'POST',
+              url:'/convert',
+              data:formData,
+              processData: false,
+            contentType: false,
+              success:function(data) {
+                $("#msg").removeClass('alert-info alert-danger');
+                $("#msg").addClass('alert alert-success');
+                $("#msg").html(data.msg);
+                $('#form button').prop( "disabled", false );
+                window.location.href = 'https://www.cprato.com/en/midi/downloadConverted/' + data.file_path + '/' + data.file_name + '/' + data.download_key;
+             },
+             error: function(xhr, status, error){
+                 $("#msg").addClass('alert alert-danger');
+
+                 if (xhr.status == 500) {
+                     $("#msg").html('Something went wrong.');
+                 } else if (xhr.status == 429) {
+                     $("#msg").html('Too many conversions are taking place. Try again in a few seconds...');       
+                 } else if (xhr.status == 403) {
+                     $("#msg").html('Only MIDI files smaller than 500KB can be converted.');       
+                 }
+                    $('#form button').prop( "disabled", false );
+            }
+          });
+          return false;
+       });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/js/fontawesome.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typeahead.js@0.11.1/dist/typeahead.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bs-custom-file-input/dist/bs-custom-file-input.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typeahead.js@0.11.1/dist/typeahead.bundle.min.js"></script>
+
+<script type="text/javascript">
+$.ajaxSetup({
+    headers: {
+        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+    }
+});
+$('#search').typeahead({
+  hint: true,
+  highlight: true,
+  minLength: 3
+},
+{
+  limit: 12,
+  async: true,
+  source: function (query, processSync, processAsync) {
+    // processSync(['This suggestion appears immediately', 'This one too']);
+    return $.ajax({
+      url: "/autocomplete", 
+      type: 'GET',
+      data: {query: query},
+      dataType: 'json',
+      success: function (json) {
+        return processAsync(json);
+      }
+    });
+  }
+}).on('typeahead:select', function(evt, item) {
+    $('#search_form').submit();
+})
+
+</script>
+</body>
+</html>
+        
