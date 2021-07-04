@@ -1,0 +1,4 @@
+
+activate tensorflowjs 
+
+tensorflowjs_converter --input_format keras C:\Users\jvela\Proyectos\KSchool_Master_Data_Science\TFM\Dathoven\Model.h5 C:\Users\jvela\Proyectos\KSchool_Master_Data_Science\TFM\Dathoven\Model.h5js
