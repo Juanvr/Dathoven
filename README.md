@@ -2,6 +2,8 @@
 
 [Dathoven](http://dathoven.s3-website.eu-west-3.amazonaws.com) is a computer-aided music composition system that tries to help music composers to explore different melodic ideas faster and easier, even on those days when it seems like inspiration is nowhere to be found!
 
+![image](https://user-images.githubusercontent.com/18513460/130944201-ad48f879-4728-4a43-9b6c-9684b233f39c.png)
+
 Using data extracted from MIDI files a neural network with LSTMs was trained to generate original melodies. This melodies are suggested to the composer using a web app. 
 
 ## Abstract
